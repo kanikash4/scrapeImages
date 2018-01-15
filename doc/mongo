@@ -1,0 +1,2 @@
+1. Run mongo in local system:
+   ~/mongodb/bin/mongod
